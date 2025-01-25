@@ -14,8 +14,8 @@ This is the official repository of our paper:
 ## Dataset
 We use extracted CLIP features for UCF-Crime and XD-Violence datasets by [VadCLIP](https://github.com/nwpu-zxr/VadCLIP).  The features can be downloaded at [VadCLIP](https://github.com/nwpu-zxr/VadCLIP).
 
-Our long-term video dataset can be downloaded at [OneDrive]()
-We also extracted CLIP features, the feature file can be loaded at [OneDrive]()
+Our long-term video dataset can be downloaded at [OneDrive](https://1drv.ms/f/c/9da13db395f6b4bb/Ev6CnA2zRvhHgk1bA8fxUA0Bq8IV6iRfvbxhI8apFIuGJA?e=d4fQZS)
+We also extracted CLIP features, the feature file can be loaded at [OneDrive](https://1drv.ms/f/c/9da13db395f6b4bb/EiBE_sp-rXRElPQOhKkpKjYBxllv5JWAWhvx0wT1Pvux8g?e=ldvOm1)
 
 ## Setup
 To execute the code on your local setup, you will need to make the following adjustments to the files:
