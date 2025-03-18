@@ -43,9 +43,9 @@ testing for UCF-Crime dataset
 ```
 python ucf_test.py
 ```
-testing for long-short term dataset, Modify `test_list` path and `gt` path, run 
+testing for long term dataset, Modify `test_list` path and `gt` path, run 
 ```
-python ucf_test.py
+python longterm_test.py
 ```
 
 ## References
